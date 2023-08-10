@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254114148625', 'KANAMBO', true],
+  ['2349020665154', 'Butterfy🤣', true],
   ['']
 ] //Number of owners
 
-global.mods = ['254114148625', '254114018035'] 
-global.prems = ['254114148625', '254114018035']
+global.mods = ['2349020665154', '2349020665154'] 
+global.prems = ['2349020665154', '2349020665154']
 
 // global.ai = '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', // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 // global.org = 'org-Wmzg6lcVPHGYXxmvPpM0CDsu',   
@@ -49,10 +49,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'KANAMBO-BOT'
+global.botname = 'Butterfly-BOT'
 global.premium = 'true'
-global.packname = 'KANAMBO┃ᴮᴼᵀ' 
-global.author = '@PETER MR.K' 
+global.packname = 'Butterfly┃ᴮᴼᵀ' 
+global.author = 'Beeeee🤣' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n' 
 global.dygp = 'https://chat.whatsapp.com/'
 global.fgsc = 'https://github.com/Kanambp/KANAMBO-BOT' 
