@@ -7,12 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349020665154', 'Butterfy🤣', true],
+  ['2349020665154', 'Butterfly🤣', true],
+  ['2348106542427', 'Jesse💀', true]
   ['']
 ] //Number of owners
 
-global.mods = ['2349020665154', '2349020665154'] 
-global.prems = ['2349020665154', '2349020665154']
+global.mods = ['2349020665154', '2348106542427'] 
+global.prems = ['2349020665154', '2348106542427']
 
 // global.ai = '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', // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 // global.org = 'org-Wmzg6lcVPHGYXxmvPpM0CDsu',   
